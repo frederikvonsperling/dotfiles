@@ -28,21 +28,6 @@
     "dark": "Night Owl Dark"
   },
 
-  // "format_on_save": "on",
-
-  // "formatter": {
-  //   "code_actions": {
-  //     // Use ESLint's --fix:
-  //     "source.fixAll.eslint": true,
-  //     // Organize imports on save:
-  //     "source.organizeImports": true
-  //   }
-  //   "external": {
-  //     "command": "node_modules/.bin/prettier",
-  //     "arguments": ["--stdin-filepath", "{buffer_path}"]
-  //   }
-  // },
-
   "terminal": {
     // Otherwise @ does not work in termonal
     "option_as_meta": false,
